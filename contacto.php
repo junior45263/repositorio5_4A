@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>Soy el contacto</h1>
-    <h1>Soy el contacto2</h1>
+    <h1>Soy el contacto2</h1
+    <h2>Hola</h2>
 </body>
 </html>
