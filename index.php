@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Soy el index</h1>
+    <h2>Soy otra linea ok</h2>
 </body>
 </html>
